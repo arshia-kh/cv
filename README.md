@@ -21,7 +21,7 @@ Islamic Azad University, Ahvaz Branch | 2021–2025
 ---
 
 ## 💼 Experience
-**Intern – Ahvaz Municipality IT Department** | Summer 2024  
+**Intern – Ahvaz Municipality IT Department** | Summer 2025  
 - Assisted in web design and automation projects using Python and HTML  
 - Supported network configuration and data system management  
 
